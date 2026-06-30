@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0002/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0002_WYG_000-1a, image: WYG1223/WYG1223-0235a.png}
+body:
+  text: 文憲集别集類五明提要臣等謹案文憲集三十二卷明宋濓撰濓有篇海類編已著録元末文章以吳萊栁貫黃溍為一朝之後徑濓初從萊學既又學於貫與溍其授受具有源流又早從聞人夢吉讀貫五經其學問亦具有根祗明史濓本傳稱其自少至老未嘗一日去書卷於學無所不通為文醇深演迤與古作者並在朝郊社宗廟山川百神之典朝會燕饗律厯衣冠之制四裔貢賦賞勞之儀旁及元勳巨卿碑記刻石之詞咸以委濓為開國文臣之首士大夫造門乞文者後先相踵外國貢使亦知其名髙麗安南日本至出兼金購其文集劉基傳中又稱所為文章氣昌而竒與濓並為一代之宗今觀二家集濓文雍容渾穆如天間良驥魚魚雅雅自中節度基文神鋒四出如千金駿足驀澗注波雖皆極天下之選而以德以力略有間矣方孝孺受業於濓努力繼之然較其品格亦終如蘇之與歐蓋基講經世之略所學不及濓之醇孝孺自命太髙意氣太盛所養不及濓之粹矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:bb5befd1b62361e9ef0ec5aae05de44a1de6e14b1ecc426a8c40bcce308271a0
+metadata:
+  title: 文憲集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:15:51.751488'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0002/KR4e0002_000.txt
+hash: sha256:b6ebecfbfe4ef0b7bdce935a0a0d99aa54e8182ac11b519cc662e83cd591cb70
