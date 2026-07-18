@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4e0002_WYG_007-1a04}
   - {type: indent, offset: 9, content: 　　, id: KR4e0002_krp_007-bkkind5}
   - {type: punctuation, offset: 10, content: (, id: KR4e0002_krp_007-bkkpn1}
+  - {type: voice, offset: 10, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 13, content: /, id: KR4e0002_krp_007-bkkpn2}
   - {type: punctuation, offset: 15, content: ), id: KR4e0002_krp_007-bkkpn3}
   - {type: 'kr:newline', offset: 15, content: '
@@ -508,6 +509,7 @@ markers:
       ', id: KR4e0002_krp_007-bkkkrnewl109}
   - {type: line-break, offset: 1910, content: '', id: KR4e0002_WYG_007-7a02}
   - {type: punctuation, offset: 1924, content: (, id: KR4e0002_krp_007-bkkpn4}
+  - {type: voice, offset: 1924, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1925, content: /, id: KR4e0002_krp_007-bkkpn5}
   - {type: punctuation, offset: 1925, content: ), id: KR4e0002_krp_007-bkkpn6}
   - {type: 'kr:newline', offset: 1931, content: '
@@ -4679,9 +4681,11 @@ markers:
       ', id: KR4e0002_krp_007-bkkkrnewl1030}
   - {type: line-break, offset: 18510, content: '', id: KR4e0002_WYG_007-58a05}
   - {type: punctuation, offset: 18526, content: (, id: KR4e0002_krp_007-bkkpn7}
+  - {type: voice, offset: 18526, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 18527, content: /, id: KR4e0002_krp_007-bkkpn8}
   - {type: punctuation, offset: 18527, content: ), id: KR4e0002_krp_007-bkkpn9}
   - {type: punctuation, offset: 18529, content: (, id: KR4e0002_krp_007-bkkpn10}
+  - {type: voice, offset: 18529, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 18530, content: /, id: KR4e0002_krp_007-bkkpn11}
   - {type: punctuation, offset: 18530, content: ), id: KR4e0002_krp_007-bkkpn12}
   - {type: 'kr:newline', offset: 18530, content: '
@@ -6375,4 +6379,4 @@ markers:
 
       ', id: KR4e0002_krp_007-bkkkrnewl1403}
   back: []
-hash: sha256:05f2e26c092a94b64c937f77577c1cb3fd9440aba13d4f7dc25920baf6fdf5b4
+hash: sha256:3c86c59bd334b2af5990383fc9f2ff07e08ce277215819a49e463e30730607b1
